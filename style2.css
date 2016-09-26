@@ -1,0 +1,8 @@
+.black{
+  font-family: "Arial", "Impact", serif;
+  text-transform: uppercase;
+}
+
+.brd{
+  border: 1px solid black;
+}

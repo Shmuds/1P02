@@ -1,0 +1,22 @@
+body{
+  background-color: red
+}
+
+.firstheader{
+
+  color: green;
+  font-style: italic;
+
+
+
+}
+
+.greentext{
+  color: red;
+
+}
+.blue{
+  display: inline;
+  font-size: 30px;
+
+}
