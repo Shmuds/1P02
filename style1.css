@@ -1,0 +1,31 @@
+#wrapper{
+  border: purple 3px dotted;
+  margin: 20px 20px 20px 20px;
+  padding: 200px 10px 10px 10px;
+}
+.pink{
+  text-align: center;
+  font-size: 10px
+}
+.green {
+  color: green;
+  text-align: center;
+  font-size: 8px
+}
+.orange{
+  color: orange;
+  font-size: 20px
+}
+#red{
+  color: red;
+  vertical-align: super;
+}
+.purple{
+  color: purple;
+  text-align: right;
+  font-size: 5px;
+}
+#yellow{
+  color: yellow;
+  text-transform: capitalize;
+}
