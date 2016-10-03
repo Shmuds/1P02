@@ -1,0 +1,16 @@
+#wrapper{
+  border: black 5px solid;
+  margin: 100px 50px 50px 100px;
+  padding: 10px;
+}
+body{
+  background-color: blue;
+}
+.pink{
+  color: pink;
+  border: grey 4px dashed;
+}
+.white{
+  border: white 3px dashed;
+  padding: 25px;
+}
